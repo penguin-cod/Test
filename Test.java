@@ -6,7 +6,7 @@ public class Test{
                     System.out.print("@");
                 System.out.println();
             }
-            System.out.println(3);
+            System.out.println(2);
        }
     }
 
